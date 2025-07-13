@@ -1,0 +1,5 @@
+{
+    "storage_account_name": "dbdeltastorage",
+    "access_key": "*********************************************************************",
+    "container_name": "landing"
+}
